@@ -1,7 +1,12 @@
 
+export interface Item {
+  text: string;
+  description: string;
+}
+
 export interface Criterion {
   name: string;
-  items: string[];
+  items: Item[];
 }
 
 export interface Category {
