@@ -1,0 +1,5 @@
+{
+  "name": "OER Quality Evaluator",
+  "description": "An interactive tool to evaluate the quality of Open Educational Resources (OER) based on a comprehensive checklist. It provides instant feedback, calculates scores, and allows for exporting the evaluation results.",
+  "requestFramePermissions": []
+}
